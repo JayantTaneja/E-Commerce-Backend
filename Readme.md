@@ -32,6 +32,18 @@
 
 ---
 
+## File Structure
+
+- ```products.json```
+    - Contains dummy product data
+- ```credentials.py```
+    - File for storing mongodb clusted connection URI
+- ```setup.py```
+    - Setups the database by uploading dummy product data
+- ```main.py```
+    - Contains all the endpoint logic
+---
+
 ## Features
 
 - ### API to List all available products in the system
