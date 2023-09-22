@@ -36,7 +36,15 @@
 
 - API to List all available products in the system
 
+
+https://github.com/JayantTaneja/E-Commerce-Backend/assets/79043865/aac25363-fb5c-4872-9f3f-3708a623210f
+
+
 - API to update product with ```productId``` to new available quantity ```newQty```
+
+
+https://github.com/JayantTaneja/E-Commerce-Backend/assets/79043865/71d250e3-1bd2-4f5e-8c00-e7efa898a539
+
 
 - Place an order
 
